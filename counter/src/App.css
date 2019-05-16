@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  height: auto;
+  width: auto;
+  margin: 0 auto;
+  color: black;
+  font-size: 22px;
+}
+
+.btn-group button {
+  background-color: #4caf50;
+  border: 1px solid green;
+  color: white;
+  padding: 10px 24px;
+  cursor: pointer;
+  font-size: 16px;
+  margin: 10px;
+}
+
+button:hover {
+  background-color: green;
+}
